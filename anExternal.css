@@ -2,6 +2,7 @@
 <html>
     <head>
         </title> Sy's Story </title> 
+        <link   rel="stylesheet" href="style.css"> 
         
     </head> 
     <body  style="background-color: blanchedalmond; font-size:20pt"> 
@@ -9,7 +10,7 @@
         img {
             foat: right;
         }
-        <h1>The Legend of Lobo </h1>
+        <h1>The Legend of Lobo</h1>
 
         <p> A summary of  Lobos life.</p>
         
